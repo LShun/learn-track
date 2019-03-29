@@ -1,2 +1,2 @@
 # learn-track
-Personal learning logbook, describing high points of what you learned every month
+Personal learning logbook, describing high points of what I learned every month
